@@ -1,0 +1,6 @@
+{
+    "helloWorld": "नमस्ते संसार",
+    "welcome_to_our_app" : "हाम्रो एपमा स्वागत छ",
+    "hello" : "नमस्कार {userName}"
+
+}

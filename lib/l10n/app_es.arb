@@ -1,0 +1,5 @@
+{
+    "helloWorld": "¡Hola Mundo!",
+    "welcome_to_our_app" : "bienvenido a nuestra aplicación",
+    "hello" : "Hola {userName}"
+}

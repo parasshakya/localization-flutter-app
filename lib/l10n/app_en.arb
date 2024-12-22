@@ -1,0 +1,24 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "welcome_to_our_app" : "Welcome to our app",
+  "@welcome_to_our_app" : {
+    "description" : "A message to welcome users to this app"
+  },
+  "hello" : "Hello {userName}",
+  "@hello" : {
+    "description" : "A message with a single parameter",
+    "placeholders": {
+    "userName": {
+      "type": "String",
+      "example": "Paras"
+    }
+  }
+}
+
+
+  
+
+}
